@@ -1,0 +1,11 @@
+.login{
+    border: 1px solid linen;
+    text-align: center;
+    width: 500px;
+    height: 300px;
+    margin-top: 50px;
+    background-color: skyblue;
+}
+button{
+    margin-top: 100px;
+}
